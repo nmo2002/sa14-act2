@@ -1,0 +1,16 @@
+#container {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+}
+
+#block {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+}
+
+#control-btn {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
